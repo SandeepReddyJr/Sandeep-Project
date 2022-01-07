@@ -14,6 +14,7 @@ import { DropdownDirective } from './shared/dropdown.directive';
 import { ShoppingListService } from './shopping-list/shopping-list.service';
 import { RecipeStartComponent } from './recipe/recipe-start/recipe-start.component';
 import { RecipeEditComponent } from './recipe/recipe-edit/recipe-edit.component';
+import { SuperInfoComponent } from './super-info/super-info.component';
 // import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-edit.component';
 
 
@@ -31,6 +32,7 @@ import { RecipeEditComponent } from './recipe/recipe-edit/recipe-edit.component'
         DropdownDirective,
         RecipeStartComponent,
         RecipeEditComponent,
+        SuperInfoComponent,
 
     ],
     imports: [
